@@ -1,0 +1,5 @@
+/root/.cache/JetBrains/RemoteDev/dist/aa340ce67cce3_CLion-233.11799.37/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/root/.cache/JetBrains/RemoteDev/dist/aa340ce67cce3_CLion-233.11799.37/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/opt/rh/gcc-toolset-11/root/usr/bin/gcc -DCMAKE_CXX_COMPILER=/opt/rh/gcc-toolset-11/root/usr/bin/g++ -G Ninja -S /home/pympc_refactor/cplusplus/cplusplusPrimer -B /home/pympc_refactor/cplusplus/cplusplusPrimer/cmake-build-release-defaultcplius
+CMake version: 3.27.0
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pympc_refactor/cplusplus/cplusplusPrimer/cmake-build-release-defaultcplius
